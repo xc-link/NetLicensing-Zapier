@@ -31,7 +31,7 @@
     "eslint-plugin-mocha": "^10.1.0",
     "guidechimp": "^4.2.4",
     "lodash": "^4.17.21",
-    "mocha": "^10.0.0",
+    "mocha": "^10.8.2",
     "nock": "^13.2.9",
     "should": "^13.2.3"
   }
